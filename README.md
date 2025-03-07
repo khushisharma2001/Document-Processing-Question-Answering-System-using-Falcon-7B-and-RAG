@@ -1,4 +1,4 @@
-# Website
+
 
 Large Language Model (LLM) designed to read,
 extract and process data from Portable Document Format (PDFs), Word Documents
